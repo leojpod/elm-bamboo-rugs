@@ -1,0 +1,4 @@
+group: "leojpod"
+artifact: "elm-bamboo-rugs"
+version: "0.1.0"
+requires: "[1.0.0-m.3,2.0.0)"
