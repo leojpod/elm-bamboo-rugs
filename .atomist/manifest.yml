@@ -2,3 +2,6 @@ group: "leojpod"
 artifact: "elm-bamboo-rugs"
 version: "0.1.1"
 requires: "[1.0.0-m.4,2.0.0)"
+extensions:
+  - "com.atomist.rug:rug-functions-github:[0.14.2,1.0.0)"
+  - "com.atomist.rug:rug-function-http:[0.6.1,1.0.0)"
