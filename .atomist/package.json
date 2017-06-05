@@ -23,5 +23,6 @@
     "lint": "tslint '**/*.ts' --exclude 'node_modules/**' -t verbose",
     "mocha": "mocha --compilers ts:espower-typescript/guess 'mocha/**/*.ts'",
     "test": "yarn run mocha && rug test"
-  }
+  },
+  "version": "0.1.0"
 }
