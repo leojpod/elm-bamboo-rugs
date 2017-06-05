@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "@atomist/rugs": "^1.0.0-m.4",
+    "@types/mustache": "^0.8.29",
     "deprecated-decorator": "0.1.6",
+    "mustache": "^2.3.0",
     "tslint-config-standard": "^5.0.2"
   },
   "devDependencies": {
